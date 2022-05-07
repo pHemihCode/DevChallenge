@@ -179,6 +179,7 @@ div.top{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
     padding-top:10px;
+    padding-bottom:60px;
 }
 .container .middle2{
     margin:100px;
@@ -186,7 +187,7 @@ div.top{
 footer{
     margin-top:80px;
     text-align: center;
-    font-size:20px;
+    font-size:15px;
     padding-right:0px;
     margin-bottom:15px;
     max-width:100%;
